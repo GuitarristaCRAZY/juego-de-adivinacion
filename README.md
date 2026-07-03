@@ -8,3 +8,4 @@ dependiendo de la dificultad Tienes un numero especifico de posibilidades de adi
 
 Fácil (10 oportunidades)
 Medio (5 posibilidades)
+Difícil (3 oportunidades)
